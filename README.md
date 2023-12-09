@@ -1,45 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubham Jankar
-======================================================================================================================================
+<!-- Header -->
+# Hello, I'm [Shubham Jankar]! 👋
 
-Full Stack Developer
---------------------
+## About Me
 
-Computer Engineering Student | MERN Stack Developer & DevOps Learner | Bridging code with creativity.
+I'm a passionate [Full Stack Developer] who enjoys working with technologies like [Your Favorite Technologies]. Currently studying [CSE] at [Mumbai University].
 
-* ✉️  You can contact me at [shubhamjankarcse@gmail.com](mailto:shubhamjankarcse@gmail.com)
-* 🧠  I'm learning MERN Stack Development and Devops.
-* 🤝  I'm open to collaborating on Tech Project
+## Skills
 
-### Skills
+- **Programming Languages:** [Languages you know]
+- **Web Technologies:** [HTML, CSS, JavaScript, etc.]
+- **Frameworks/Libraries:** [React, Vue, Angular, etc.]
+- **Version Control:** [Git]
+- **Database:** [MySQL, MongoDB, etc.]
+- **Other:** [Any other relevant skills]
 
+<!-- GitHub Stats -->
+## GitHub Stats
 
-<div style="display: flex; justify-content: flex-start;">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamj10&show_icons=true&hide=contribs,prs)
 
+<!-- GitHub Streak -->
+## GitHub Streak
 
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamj10)
 
-### Socials
+<!-- Connect with Me -->
+## Connect with Me
 
-<p align="left"> <a href="https://www.github.com/shubhamj10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shubhamjankar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/shubhamjankar10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](Your LinkedIn Profile Link)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-lightblue)](Your Twitter Profile Link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](Link to Your Portfolio or Website)
+[![Email](https://img.shields.io/badge/Email-Send%20Message-red)](mailto:your.email@example.com)
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/shubhamj10"><img src="https://github-readme-stats.vercel.app/api?username=shubhamj10&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shubhamj10's GitHub stats" /></a>
-
-<a href="http://www.github.com/shubhamj10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamj10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/shubhamj10"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamj10&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/shubhamj10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamj10&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Optional: Add more sections based on your preferences -->
