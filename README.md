@@ -9,14 +9,11 @@
 <p align="center">
   <a href="https://github.com/shubhamj10"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;Computer%20Engineering%20Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
- -->
+-->
 
 <a href="https://komarev.com/ghpvc/?username=shubhamj10">
   <img align="right" src="https://komarev.com/ghpvc/?username=shubhamj10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -24,7 +21,6 @@
                 <b><a target="_blank" href="https://shubhamjankar.com">Shubham Jankar</a></b>
         </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -46,15 +42,9 @@
  <a href="https://twitter.com/shubhamjankar10" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <!-- <a href="https://dev.to/shubhamjankar" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="shubhamjankar" />
- </a> -->
- <a href="https://instagram.com/shubhamjankar10" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="shubhamjankar" />
+ <a href="mailto:shubhamjankarcse@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shubhamjankar" />
  </a> 
- <a href="https://facebook.com/shubhamjankar10" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="shubhamjankar"  />
-  </a> 
 </p>
 <br />
 
@@ -66,7 +56,7 @@
   
  ✌️ &emsp; Computer Engineering student and Full Stack Developer <br/><br/>
  ❤️ &emsp; Always learning and exploring new technologies<br/><br/>
- 📧 &emsp; Reach me anytime: shubham.jankar@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: shubhamjankarcse@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/shubhamj10/shubhamj10/issues)
 
 </p>
@@ -76,24 +66,22 @@
 <br/>
 
 ## GitHub Stats & Contributions
-<!-- GitHub Contributions -->
+
 <p align="center">
   <a href="https://github.com/shubhamj10">
     <img src="https://github-readme-stats.vercel.app/api?username=shubhamj10&show_icons=true&count_private=true&theme=dark" alt="Shubham's GitHub Stats" />
   </a>
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
   <a href="https://github.com/shubhamj10">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamj10&theme=dark" alt="Shubham's GitHub Streak" />
   </a>
 </p>
 
-<!-- GitHub Contribution Graph (Link) -->
 <p align="center">
   <a href="https://github.com/shubhamj10">
-    View my GitHub Contribution Graph
+    <img src="https://activity-graph.herokuapp.com/graph?username=shubhamj10&custom_title=Shubham's%20GitHub%20Contribution%20Graph&theme=dark" alt="Shubham's GitHub Contribution Graph" />
   </a>
 </p>
 
