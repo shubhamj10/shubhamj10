@@ -80,13 +80,13 @@
 </p>
 
 <a href="https://github.com/shubhamj0">
-  <img align="center" alt="Shubham Jankar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamj0&show_icons=true&count_private=true&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  <img align="center" alt="Shubham Jankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamj0&langs_count=8&layout=compact&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <img align="center" alt="Shubham Jankar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamj10&show_icons=true&count_private=true&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <img align="center" alt="Shubham Jankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamj10&langs_count=8&layout=compact&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
 </a>
 
 <p align="center">
-  <a href="https://github.com/shubhamj0">
-    <img src="https://activity-graph.herokuapp.com/graph?username=shubhamj0&custom_title=Shubham Jankar's%20GitHub%20Activity%20Graph&theme=dark" alt="Shubham Jankar's GitHub Activity Graph"/>
+  <a href="https://github.com/shubhamj10">
+    <img src="https://activity-graph.herokuapp.com/graph?username=shubhamj10&custom_title=Shubham Jankar's%20GitHub%20Activity%20Graph&theme=dark" alt="Shubham Jankar's GitHub Activity Graph"/>
   </a>
 </p>
 
