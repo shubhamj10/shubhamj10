@@ -1,35 +1,32 @@
 <!-- Header -->
-# Hello, I'm [Shubham Jankar]! 👋
+# Hi there, I'm Shubham Jankar! 👋
 
 ## About Me
 
-I'm a passionate [Full Stack Developer] who enjoys working with technologies like [Your Favorite Technologies]. Currently studying [CSE] at [Mumbai University].
+I'm a passionate Full Stack Developer, currently pursuing a degree in Computer Science. I love working on web technologies and creating meaningful projects.
 
 ## Skills
 
-- **Programming Languages:** [Languages you know]
-- **Web Technologies:** [HTML, CSS, JavaScript, etc.]
-- **Frameworks/Libraries:** [React, Vue, Angular, etc.]
-- **Version Control:** [Git]
-- **Database:** [MySQL, MongoDB, etc.]
-- **Other:** [Any other relevant skills]
+- **Languages:** JavaScript (Node.js, React), HTML, CSS, Python
+- **Frameworks/Libraries:** Express.js, React.js, Bootstrap
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, VS Code
+- **Other:** RESTful APIs, Web Design
 
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamj10&show_icons=true&hide=contribs,prs)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamj10&show_icons=true&hide=contribs,prs)
 
 <!-- GitHub Streak -->
 ## GitHub Streak
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamj10)
+![Shubham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamj10)
 
 <!-- Connect with Me -->
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](Your LinkedIn Profile Link)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-lightblue)](Your Twitter Profile Link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](Link to Your Portfolio or Website)
-[![Email](https://img.shields.io/badge/Email-Send%20Message-red)](mailto:your.email@example.com)
-
-<!-- Optional: Add more sections based on your preferences -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Jankar-blue)](https://www.linkedin.com/in/shubham-jankar/)
+[![Twitter](https://img.shields.io/badge/Twitter-@shubhamj10-lightblue)](https://twitter.com/shubhamj10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamjankar.dev-green)](https://shubhamjankar.dev/)
+[![Email](https://img.shields.io/badge/Email-Send%20Message-red)](mailto:shubham.jankar@example.com)
