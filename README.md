@@ -76,22 +76,24 @@
 <br/>
 
 ## GitHub Stats & Contributions
-
+<!-- GitHub Contributions -->
 <p align="center">
   <a href="https://github.com/shubhamj10">
     <img src="https://github-readme-stats.vercel.app/api?username=shubhamj10&show_icons=true&count_private=true&theme=dark" alt="Shubham's GitHub Stats" />
   </a>
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
   <a href="https://github.com/shubhamj10">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamj10&theme=dark" alt="Shubham's GitHub Streak" />
   </a>
 </p>
 
+<!-- GitHub Contribution Graph (Link) -->
 <p align="center">
   <a href="https://github.com/shubhamj10">
-    <img src="https://activity-graph.herokuapp.com/graph?username=shubhamj10&custom_title=Shubham's%20GitHub%20Contribution%20Graph&theme=dark" alt="Shubham's GitHub Contribution Graph" />
+    View my GitHub Contribution Graph
   </a>
 </p>
 
