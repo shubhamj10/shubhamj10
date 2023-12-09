@@ -1,4 +1,4 @@
-<!-- Header -->
+[<!-- Header -->
 # Hi there, I'm Shubham Jankar! 👋
 
 ## About Me
@@ -30,3 +30,4 @@ I'm a passionate Full Stack Developer, currently pursuing a degree in Computer S
 [![Twitter](https://img.shields.io/badge/Twitter-@shubhamj10-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/shubhamj10)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shubhamjankar.dev-green?style=for-the-badge&logo=dev.to)](https://shubhamjankar.dev/)
 [![Email](https://img.shields.io/badge/Email-Send%20Message-red?style=for-the-badge&logo=gmail)](mailto:shubham.jankar@example.com)
+](https://github.com/shubhamj10)https://github.com/shubhamj10
