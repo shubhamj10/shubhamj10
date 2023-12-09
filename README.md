@@ -68,22 +68,24 @@
 ## GitHub Stats & Contributions
 
 <p align="center">
-  <a href="https://github.com/shubhamj10">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubhamj10&show_icons=true&count_private=true&theme=dark" alt="Shubham's GitHub Stats" />
+  <a href="https://github.com/shubhamj0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamj0&theme=radical&border=7F3FBF&background=0D1117" alt="Shubham's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/shubhamj10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamj10&theme=dark" alt="Shubham's GitHub Streak" />
+  <a href="https://github.com/shubhamj0">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamj0&theme=radical" alt="Shubham's GitHub Contribution"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/shubhamj10">
-    <img src="https://activity-graph.herokuapp.com/graph?username=shubhamj10&custom_title=Shubham's%20GitHub%20Contribution%20Graph&theme=dark" alt="Shubham's GitHub Contribution Graph" />
-  </a>
-</p>
+<a> 
+    <a href="https://github.com/shubhamj0"><img alt="Shubham's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shubhamj0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/shubhamj0"><img alt="Shubham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shubhamj0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Shubham's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamj0&custom_title=Shubham's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## Use To Code
 
